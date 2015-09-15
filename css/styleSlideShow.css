@@ -1,0 +1,57 @@
+/*
+  CSS file for SlideShow.html
+  Author :  Angel Raul Pulido
+  April 2015
+*/
+html 
+    {
+        background-color: black;
+    }
+
+body 
+    {
+	    font-family: Tahoma, Geneva, arial, georgia, helvetica;
+        background-color:#8AD9FF;
+        width:80%;
+        padding:10px;
+        margin:auto;
+    }
+header
+    {
+        background-color:white;
+        box-shadow:  5px 5px 3px 1px rgba(50, 50, 50, 0.75);
+       
+    }
+h1
+    {
+        text-align: center;
+        text-shadow: rgb(224, 224, 224) 4px 4px 0px;
+        padding: 6px;
+    }
+h4
+    {
+        text-align: center;
+        text-shadow: rgb(224, 224, 224) 2px 2px 0px;
+        padding: 10px;
+    }
+
+.Slide 
+    {
+        max-width: 1000px;
+        text-align: center;
+        margin: auto;
+        padding:20px;
+        
+    }
+    
+img
+    {
+        vertical-align: middle;
+        padding:25px;
+        box-shadow:  5px 5px 3px 1px rgba(50, 50, 50, 0.75);
+    }
+
+
+a{
+    font-weight: bold;
+}
