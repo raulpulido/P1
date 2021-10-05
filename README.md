@@ -34,8 +34,8 @@
 
 
 ## Outside resources
-Jermy Grifski  (https://therenegadecoder.com/code/rock-paper-scissors-using-modular-arithmetic/) and Susan for publish this link in our forum.
+Jermy Grifski  (https://therenegadecoder.com/code/rock-paper-scissors-using-modular-arithmetic/).
 
 
 ## Notes for instructor
-*any notes for me to refer to while grading; if none, omit this section*
+
