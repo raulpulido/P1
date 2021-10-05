@@ -19,7 +19,8 @@
 + _because we are going to use the id of the array game to define what option was selected_
 + _I decided to follow the approach of using the Operator Module to validate who wins. In this way, we simplify and reduce the "if" conditions to 3._
 + _The formula is:_
-  _the selection of Playe A minus selection of Playber B and apply  the Operator Module "%" with the number 3._
+   
+   _the selection of Playe A minus selection of Playber B and apply  the Operator Module "%" with the number 3._
     
   _($playerA - $playerB)_% 3_
   
