@@ -22,7 +22,7 @@
    
    _the selection of Playe A minus selection of Playber B and apply  the Operator Module "%" with the number 3._
     
-  _($playerA - $playerB)_% 3_
+  _($playerA - $playerB) % 3_
   
   _we can obtained the following _module number:_
   
