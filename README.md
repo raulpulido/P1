@@ -18,7 +18,7 @@
 + _Create the variables playerA and Player B and Randomly assing a value between 0 and 2_
   _because we are going to use the id of the array game to define what option was selected_
 + _I decided to follow the approach of using the Operator Module to validate who wins. In this way, we simplify and reduce the "if" conditions to 3._
-+ _The formula is the selection of Playe A minus selection of Playber B and apply  the Operator Module "%" with the number 3._
++ _The formula is: the selection of Playe A minus selection of Playber B and apply  the Operator Module "%" with the number 3._
 + _we can obtained the following _module number:_
 + _0,1,2,-1,-2_
 + _where  0 = Tie,  1 and -2  player A wins, 2 and -1 Player B wins._
