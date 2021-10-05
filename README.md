@@ -24,13 +24,13 @@
     
   _($playerA - $playerB) % 3_
   
-  _we can obtained the following _module number:_
+   we can obtained the following _module number:
   
   _0,1,2,-1,-2_
   
   _where  0 = Tie,  1 and -2  player A wins, 2 and -1 Player B wins._
 + _I create a function that receives the variable $gameModCalculation and evaluate who wins._
-+ _Additional, we have en el folder 'images'  rock.jpeg, paper.jpeg, and scissors.jpeg and we display base on the randon number assign to each player_
++ _Additional, we have en el folder 'images'  rock.jpeg, paper.jpeg, and scissors.jpeg and we display them according to the number assign to each player_
 
 
 ## Outside resources
